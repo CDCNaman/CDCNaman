@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman Malik</h1>
-<h3 align="center">Tech enthusiast || Postman API Platform Student Expert || Open-Source Contributor at CDC || Co-founder & Tech Head at Semicolons. Passionate about innovation and empowering through technology.</h3>
+<h3 align="center">Tech enthusiast || Full Stack Developer at Curious Ecosystem || Open-Source Contributor at Curious Developers Community.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=CDCNaman&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -18,6 +18,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CDCNaman&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CDCNaman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-TEST4
